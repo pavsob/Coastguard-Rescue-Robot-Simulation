@@ -11,4 +11,4 @@ To run particular algorithm navigate to the src folder in the command window and
 6.	2Agent – Bidirectional search
 There is 24 different map configurations CONF0 till CONF24 and also two additional TCONF00 and TCONF01, these are used as argument <configuration>.
 
-Example of a command for calling breadth-first search: java A1main BFS CONF7
+Example of a command for calling breadth-first search: java Main BFS CONF7
