@@ -1,10 +1,10 @@
 /*
  * Main class for running search algorithms
  * 
- * Run with: java A1main <Algo> <ConfID>
+ * Run with: java Main <Algo> <ConfID>
  * Retrieves input and configuration and run search algorithm
  * Configuration represents particular map with obstacles (robot's environment)
- * Example: java A1main BFS TCONF00
+ * Example: java Main BFS TCONF00
  * 
  */
 
