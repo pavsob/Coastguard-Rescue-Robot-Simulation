@@ -23,6 +23,7 @@ To run particular algorithm navigate to the src folder in the command window and
 4.	AStar – A* search
 5.	Euclid – Informed search that uses Euclidian distance as a heuristic
 6.	2Agent – Bidirectional search
+ 
 There is 24 different map configurations CONF0 till CONF24 and also two additional TCONF00 and TCONF01, these are used as argument <configuration>.
 
 Example of a command for calling breadth-first search: java Main BFS CONF7
