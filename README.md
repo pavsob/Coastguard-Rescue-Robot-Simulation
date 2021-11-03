@@ -2,11 +2,17 @@
 
 Coastguard rescue simulation simulates the robot which has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. The map consists of hexagonal elements (figure 1) and contains two types of obstacles. The robot can not move through the obstacle type one in any direction and can move only horizontally through the obstacle type two (figure 2).
 
+<div align='center'>
+ 
+
 ![image](https://user-images.githubusercontent.com/81230042/140093550-287dd26c-08af-4ad2-8913-d76c5493168f.png)
+  
 Figure 1: 	Example map
 
 ![image](https://user-images.githubusercontent.com/81230042/140093608-07235aef-a78d-49a7-9462-b1946bc17042.png)
+  
 Figure 2: 	Obstacles of type 2
+</div> 
 
 # Running the code instructions
 To compile attached files run javac *.java in the command window.
