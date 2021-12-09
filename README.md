@@ -1,5 +1,6 @@
 # Coastguard Rescue Robot Simulations
 
+Optimising the search problem of coastguard rescue robot simulation with different search algorithm strategies.  
 Coastguard rescue simulation simulates the robot which has to navigate through the Giant's Causeway and find the shortest path to take people in danger to the safe position. The map consists of hexagonal elements (figure 1) and contains two types of obstacles. The robot can not move through the obstacle type one in any direction and can move only horizontally through the obstacle type two (figure 2).
 
 <div align='center'>
